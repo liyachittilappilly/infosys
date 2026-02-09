@@ -1,0 +1,3 @@
+sentence: bat
+expected_pronunciation:
+B AE1 T

@@ -1,0 +1,3 @@
+sentence: she sells sea shells
+expected_pronunciation:
+SH IY1 S EH1 L Z S IY1 SH EH1 L Z

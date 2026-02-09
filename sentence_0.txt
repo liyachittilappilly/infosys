@@ -1,0 +1,3 @@
+sentence: cat
+expected_pronunciation:
+K AE1 T

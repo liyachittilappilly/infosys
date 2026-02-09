@@ -1,0 +1,3 @@
+sentence: rat
+expected_pronunciation:
+R AE1 T
